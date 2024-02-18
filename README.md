@@ -5,4 +5,4 @@ To run the file, first install the following libraries through the following com
 2. pip install scipy
 3. pip install wavio
 
-   After inntsalling these libraries run the file
+   After intsalling these libraries run the file
